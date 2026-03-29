@@ -109,7 +109,7 @@ Todos os testes foram realizados em ambiente controlado, com máquinas vulneráv
 
 ## 🚀 Conclusão
 
-O laboratório proporcionou uma visão prática sobre ataques de força bruta e reforçou a importância de proteger sistemas contra esse tipo de ameaça.
+O laboratório proporcionou uma visão prática, hands on, sobre ataques de força bruta e reforçou a importância de proteger sistemas contra esse tipo de ameaça.
 
 ---
 
